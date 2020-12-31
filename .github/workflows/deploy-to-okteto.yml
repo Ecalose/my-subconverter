@@ -1,5 +1,4 @@
 name: Deploy to okteto
-
 on:
   push:
     branches:
